@@ -1,2 +1,4 @@
 # Compiler
-Compiladores
+Proyecto compiladores
+## Nombre
+Gary Brigham Chunga Castillo 
